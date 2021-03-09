@@ -10,7 +10,7 @@
 
 ## Приклади роботи програми
 
-![lab](screenshots/spyder_works.png)
+![lab](screenshots/spіder_works.png)
 ___
 ![lab](screenshots/task1.png)
 ___
