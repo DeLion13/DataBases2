@@ -1,7 +1,6 @@
-
-from controller.Controller import Controller
-from controller.EmulationController import EmulationController
-from controller.Neo4jController import Neo4jController
+from connection.Controller import Controller
+from connection.EmulationController import EmulationController
+from connection.Neo4jController import Neo4jController
 from view import View
 from faker import Faker
 import random

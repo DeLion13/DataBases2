@@ -1,7 +1,7 @@
 from neo4j import GraphDatabase
 
 from view import View
-from controller.Controller import Tags
+from connection.Controller import Tags
 
 
 class Neo4jServer(object):

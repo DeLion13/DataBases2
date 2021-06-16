@@ -1,5 +1,5 @@
-from controller.Neo4jController import Neo4jController
-from controller.Controller import Controller, Tags
+from connection.Neo4jController import Neo4jController
+from connection.Controller import Controller, Tags
 from servers.neo4j_server.Neo4jServer import Neo4jServer
 
 menu_list = {
