@@ -8,28 +8,28 @@
 -----------------------------------
 Пункт 6.1
 -----------------------------------
-![screenshot](screenshots/6_1.png)
+![screenshot](img/6_1.png)
 -----------------------------------
 Пункт 6.2
 -----------------------------------
-![screenshot](screenshots/6_2_1.png)
-![screenshot](screenshots/6_2_2.png)
+![screenshot](img/6_2_1.png)
+![screenshot](img/6_2_2.png)
 -----------------------------------
 Пункт 6.3
 -----------------------------------
-![screenshot](screenshots/6_3_1.png)
-![screenshot](screenshots/6_3_2.png)
-![screenshot](screenshots/6_3_3.png)
+![screenshot](img/6_3_1.png)
+![screenshot](img/6_3_2.png)
+![screenshot](img/6_3_3.png)
 -----------------------------------
 Пункт 6.4
 -----------------------------------
-![screenshot](screenshots/6_4.png)
+![screenshot](img/6_4.png)
 -----------------------------------
 Пункт 6.5
 -----------------------------------
-![screenshot](screenshots/6_5.png)
+![screenshot](img/6_5.png)
 -----------------------------------
 Ноди БД
 -----------------------------------
-![screenshot](screenshots/node.png)
+![screenshot](img/node.png)
 
